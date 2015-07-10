@@ -1,0 +1,62 @@
+[
+{ 
+  "competitor": "Jack Heart",
+  "run_time": "28",
+  "swim_time": "120",
+  "competed_on" : "2014/01/12 17:56:35 -0400"
+},
+{ 
+  "competitor": "Tom Freud",
+  "run_time": "22",
+  "swim_time": "20",
+  "competed_on" : "2013/05/06 17:56:35 -0400"
+},
+{ 
+  "competitor": "Alex McCloud",
+  "run_time": "58",
+  "swim_time": "60",
+  "competed_on" : "2014/04/14 17:56:35 -0400"
+},
+{ 
+  "competitor": "Tim Riberton",
+  "run_time": "90",
+  "swim_time": "130",
+  "competed_on" : "2014/04/10 17:56:35 -0400"
+},
+{ 
+  "competitor": "Andrew Lingaurd",
+  "run_time": "85",
+  "swim_time": "90",
+  "competed_on" : "2014/05/13 17:56:35 -0400"
+},
+{ 
+  "competitor": "Garry Glen",
+  "run_time": "38",
+  "swim_time": "50",
+  "competed_on" : "2014/05/19 17:56:35 -0400"
+},
+{ 
+  "competitor": "Nate Andrews",
+  "run_time": "15",
+  "swim_time": "52",
+  "competed_on" : "2014/02/01 17:56:35 -0400"
+},
+{ 
+  "competitor": "Stuart Cliford",
+  "run_time": "25",
+  "swim_time": "65",
+  "competed_on" : "2013/00/12 17:56:35 -0400"
+},
+{ 
+  "competitor": "Eric Disilver",
+  "run_time": "145",
+  "swim_time": "30",
+  "competed_on" : "2013/12/17 17:56:35 -0400"
+},
+{ 
+  "competitor": "Micheal Reynolds",
+  "run_time": "45",
+  "swim_time": "10",
+  "competed_on" : "2013/03/28 17:56:35 -0400"
+}
+]

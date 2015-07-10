@@ -1,0 +1,655 @@
+
+[
+      {
+        "id": "003-1331B",
+        "upc": null,
+        "manufacturer_number": "03-1331B",
+        "list_price": "92.95",
+        "standard_dealer_price": "42.61",
+        "estimated_weight": "5.0445",
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "SPRINGS BLACK 70\\/130",
+        "image": "003-1300B.jpg",
+        "video": null,
+        "has_fitment": "true",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "PROGRESSIVE",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/003-1331B"
+          }
+        }
+      },
+      {
+        "id": "01-0508",
+        "upc": null,
+        "manufacturer_number": "01-0508",
+        "list_price": "4.95",
+        "standard_dealer_price": "1.65",
+        "estimated_weight": null,
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "10\\/PK ACORN NUTS",
+        "image": null,
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": null,
+        "country_of_origin": null,
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CLOSEOUT",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-0508"
+          }
+        }
+      },
+      {
+        "id": "01-3000",
+        "upc": null,
+        "manufacturer_number": "MK666",
+        "list_price": "672.95",
+        "standard_dealer_price": "363.59",
+        "estimated_weight": null,
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "CY-CHRM ASSORTMENT TRAY  1",
+        "image": "01-3000.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3000"
+          }
+        }
+      },
+      {
+        "id": "01-3001",
+        "upc": null,
+        "manufacturer_number": "MK668",
+        "list_price": "793.95",
+        "standard_dealer_price": "429.29",
+        "estimated_weight": null,
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "CY-CHRM ASST. TRAY  2",
+        "image": "01-3000.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3001"
+          }
+        }
+      },
+      {
+        "id": "01-3002",
+        "upc": null,
+        "manufacturer_number": "MK669",
+        "list_price": "537.95",
+        "standard_dealer_price": "290.69",
+        "estimated_weight": null,
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "CY-CHRM ASST. TRAY  3",
+        "image": "01-3002.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3002"
+          }
+        }
+      },
+      {
+        "id": "01-3003",
+        "upc": null,
+        "manufacturer_number": "MK667",
+        "list_price": "444.95",
+        "standard_dealer_price": "240.29",
+        "estimated_weight": null,
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "CY-CHRM ASST. TRAY  4",
+        "image": "01-3000.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3003"
+          }
+        }
+      },
+      {
+        "id": "01-3010",
+        "upc": null,
+        "manufacturer_number": "HCS02",
+        "list_price": "602.95",
+        "standard_dealer_price": "327.59",
+        "estimated_weight": null,
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "CY-CHRM START-UP PKG  A",
+        "image": "01-3010.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3010"
+          }
+        }
+      },
+      {
+        "id": "01-3011",
+        "upc": null,
+        "manufacturer_number": "HCS02B",
+        "list_price": "637.95",
+        "standard_dealer_price": "346.49",
+        "estimated_weight": null,
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "CY-CHRM START-UP PKG  B",
+        "image": "01-3010.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3011"
+          }
+        }
+      },
+      {
+        "id": "01-3021",
+        "upc": null,
+        "manufacturer_number": "MCS131",
+        "list_price": "5.95",
+        "standard_dealer_price": "3.29",
+        "estimated_weight": "0.9382",
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "4\\/PK M8 CHRM FLAT WASHER",
+        "image": "01-3020.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3021"
+          }
+        }
+      },
+      {
+        "id": "01-3030",
+        "upc": null,
+        "manufacturer_number": "MCS133",
+        "list_price": "6.5",
+        "standard_dealer_price": "3.49",
+        "estimated_weight": null,
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "4\\/PK M6 CHRM LOCK WASHER",
+        "image": "01-3030.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3030"
+          }
+        }
+      },
+      {
+        "id": "01-3030B",
+        "upc": null,
+        "manufacturer_number": "MPB1354",
+        "list_price": "52.95",
+        "standard_dealer_price": "28.79",
+        "estimated_weight": "3.555",
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "50\\/PK M6 LOCK WASHERS CHROME",
+        "image": "01-3030.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3030B"
+          }
+        }
+      },
+      {
+        "id": "01-3031B",
+        "upc": null,
+        "manufacturer_number": "MPB1355",
+        "list_price": "53.95",
+        "standard_dealer_price": "29.39",
+        "estimated_weight": "3.555",
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "50\\/PK M8 LOCK WASHERS CHROME",
+        "image": "01-3030.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3031B"
+          }
+        }
+      },
+      {
+        "id": "01-3032",
+        "upc": null,
+        "manufacturer_number": "MCS135",
+        "list_price": "6.5",
+        "standard_dealer_price": "3.49",
+        "estimated_weight": null,
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "4\\/PK M10 LOCK WASHERS CHROME",
+        "image": "01-3030.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3032"
+          }
+        }
+      },
+      {
+        "id": "01-3032B",
+        "upc": null,
+        "manufacturer_number": "MPB1356",
+        "list_price": "56.95",
+        "standard_dealer_price": "30.89",
+        "estimated_weight": "3.555",
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "50\\/PK M10 LOCK WASHERS CHROME",
+        "image": "01-3030.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3032B"
+          }
+        }
+      },
+      {
+        "id": "01-3051B",
+        "upc": null,
+        "manufacturer_number": "MPB1352",
+        "list_price": "60.95",
+        "standard_dealer_price": "32.99",
+        "estimated_weight": "3.555",
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "50\\/PK M8-1.25 HEX NUTS CHROME",
+        "image": "01-3050.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3051B"
+          }
+        }
+      },
+      {
+        "id": "01-3060",
+        "upc": null,
+        "manufacturer_number": "MCS127",
+        "list_price": "4.95",
+        "standard_dealer_price": "2.59",
+        "estimated_weight": "1.278",
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "2\\/PK M6-1.0 LOCK NUTS CHROME",
+        "image": "01-3060.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3060"
+          }
+        }
+      },
+      {
+        "id": "01-3137",
+        "upc": null,
+        "manufacturer_number": "MCS074",
+        "list_price": "12.95",
+        "standard_dealer_price": "6.89",
+        "estimated_weight": "0.527",
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "2\\/PK M6-1.0X80MM BOLTS CHROME ALLEN HEAD",
+        "image": "01-3130.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3137"
+          }
+        }
+      },
+      {
+        "id": "01-3137B",
+        "upc": null,
+        "manufacturer_number": "MPB1324S",
+        "list_price": "20.95",
+        "standard_dealer_price": "11.59",
+        "estimated_weight": null,
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "4\\/PK M6-1.0X80MM BOLTS CHROME ALLEN HEAD",
+        "image": "01-3130.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3137B"
+          }
+        }
+      },
+      {
+        "id": "01-3138",
+        "upc": null,
+        "manufacturer_number": "MCS075",
+        "list_price": "12.95",
+        "standard_dealer_price": "6.89",
+        "estimated_weight": "0.527",
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "2\\/PK M6-1.0X90MM BOLTS CHROME ALLEN HEAD",
+        "image": "01-3130.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3138"
+          }
+        }
+      },
+      {
+        "id": "01-3138B",
+        "upc": null,
+        "manufacturer_number": "MPB1325S",
+        "list_price": "22.95",
+        "standard_dealer_price": "12.59",
+        "estimated_weight": null,
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "4\\/PK M6-1.0X90MM BOLTS CHROME ALLEN HEAD",
+        "image": "01-3130.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3138B"
+          }
+        }
+      },
+      {
+        "id": "01-3139",
+        "upc": null,
+        "manufacturer_number": "MCS076",
+        "list_price": "14.95",
+        "standard_dealer_price": "7.99",
+        "estimated_weight": "0.527",
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "2\\/PK M6-1.0X100MM BOLTS CHROMEALLEN HEAD",
+        "image": "01-3130.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3139"
+          }
+        }
+      },
+      {
+        "id": "01-3139B",
+        "upc": null,
+        "manufacturer_number": "MPB1326S",
+        "list_price": "25.95",
+        "standard_dealer_price": "14.29",
+        "estimated_weight": null,
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "4\\/PK M6-1.0X100MM BOLTS CHROMEALLEN HEAD",
+        "image": "01-3130.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3139B"
+          }
+        }
+      },
+      {
+        "id": "01-3140",
+        "upc": null,
+        "manufacturer_number": "MCS077",
+        "list_price": "15.95",
+        "standard_dealer_price": "8.69",
+        "estimated_weight": "0.527",
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "2\\/PK M6-1.0X110MM BOLTS CHROMEALLEN HEAD",
+        "image": "01-3130.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3140"
+          }
+        }
+      },
+      {
+        "id": "01-3140B",
+        "upc": null,
+        "manufacturer_number": "MPB1327S",
+        "list_price": "28.95",
+        "standard_dealer_price": "15.79",
+        "estimated_weight": null,
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "4\\/PK M6-1.0X110MM BOLTS CHROMEALLEN HEAD",
+        "image": "01-3130.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3140B"
+          }
+        }
+      },
+      {
+        "id": "01-3182B",
+        "upc": null,
+        "manufacturer_number": "MPB1368",
+        "list_price": "105.95",
+        "standard_dealer_price": "57.59",
+        "estimated_weight": "0.833",
+        "substitute_part": null,
+        "superceded_part": null,
+        "catalog_description": null,
+        "description": "100\\/PK M10 ALLEN HEAD PLUGS",
+        "image": "01-3180.jpg",
+        "video": null,
+        "has_fitment": "false",
+        "has_map_policy": "false",
+        "country_of_origin_code": "US",
+        "country_of_origin": "United States of America",
+        "create_date": "2014-09-08 08:50:40",
+        "last_update_date": "2015-04-04 03:12:32",
+        "vendor_id": "CY-CHROME",
+        "_links": {
+          "self": {
+            "href": "http:\\/\\/api.wpswebservices.com\\/item\\/01-3182B"
+          }
+        }
+      }
+    ]
+  
+  

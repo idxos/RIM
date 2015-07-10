@@ -1,0 +1,15 @@
+
+builds/development/app/bower_components/
+builds/development/app/tests/
+builds/development/app/.sass-cache
+builds/production/app/bower_components/
+builds/production/app/.sass-cache
+vendor/
+node_modules/
+bower_components/
+logs/*
+!.gitkeep
+tmp
+.idea
+.DS_Store
+.sass-cache

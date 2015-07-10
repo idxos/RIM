@@ -1,0 +1,20 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2">
+      <!--Sidebar content-->
+    </div>
+    <div class="col-md-10">
+      <!--Body content-->
+
+      <ul class="items">
+        <li ng-repeat="item in items | filter:json"
+            class="thumbnail phone-listing">
+          <a href="#/items/{{item.id}}" class="thumb"><img ng-src="{{item.image}}"></a>
+          <a href="#/items/{{item.id}}">{{item.vendor_id}}</a>
+          <p>{{item.description}}</p>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>
