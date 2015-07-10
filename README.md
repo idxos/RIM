@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 # RIM
 <img src="wf-git-logo.jpg" width="250px" hieght="128px">
 <br>
