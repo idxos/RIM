@@ -20,10 +20,10 @@
 
 <strong>First:<strong><br>
 <p class="well">
-    ‘cd RIM/builds/development’
+    cd RIM/builds/development
 </p>
 
 <strong>Second:<strong><br>
 <p class="well">
-    ’sudo npm install’
+    sudo npm install
 </p>
