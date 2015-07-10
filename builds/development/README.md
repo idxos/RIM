@@ -1,8 +1,6 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-# RIM / Development
-<img src="wf-git-logo.jpg" width="250px" hieght="128px">
-<br>
-<h1>Development RIM App</h1>
+<h1>RIM / builds / development</h1>
+<img src="wf-git-logo.jpg" width="250px" hieght="128px" class="img-responsive">
 <p class="lead">
     App is Currently using Bower as package manager for app’s assets.<br>
     Node.js controls the installation of all bower.json files and testing utils for debugging.
@@ -30,7 +28,7 @@
 <p class="lead">
     Our sass-start.sh has been pre-configured to watch for changes in the '/sass/site.scss' folder and then automaticall re-write our '/app/css/site.css' file.  We will leave the css pritty for now, but will eventually uglify for production site.
 </p>
-<p>Run the follosing command in terminal using mac. 
+<p>Run the follosing command in terminal using mac. </p>
 <p class="well">
     sh sass-start.sh
 </p>
