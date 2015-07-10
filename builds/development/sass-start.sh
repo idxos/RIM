@@ -1,2 +1,2 @@
 #!/bin/bash
-sass --watch assets/sass/_site.scss:assets/css/site.css
+sass --watch sass/_site.scss:app/css/site.css

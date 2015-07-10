@@ -1,5 +1,5 @@
 # RIM
-<img src="wf-git-logo.png" width="250px" hieght="128px">
+<img src="wf-git-logo.jpg" width="250px" hieght="128px">
 <br>
 <h1>Welcome to das Repo!</h1>
 <p class="lead">
