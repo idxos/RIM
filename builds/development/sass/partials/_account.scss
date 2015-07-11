@@ -1,0 +1,81 @@
+#account-container {
+
+  .loyalty-points-blurb {
+    padding: 20px;
+    & p {
+      font-size: 12px;
+    }
+  }
+
+  .loyalty-points-blurb {
+    & .h2bold {
+      font-weight: bold;
+      font-size: 20px;
+      text-transform: uppercase;
+      margin-bottom: 20px;
+    }
+  }
+
+  .customer-care-links {
+    margin-left: 100px;
+    margin-top: 20px;
+  }
+
+
+  h4 {
+    background-color: transparent;
+    font-size-adjust: none;
+    text-decoration: none;
+    font-stretch: normal;
+    border: none;
+    display: block;
+    font-size: 18px;
+    padding: 0;
+    font-family: "Lato Regular", sans-serif;
+    font-weight: 300;
+  }
+
+  .therow {
+    margin-top: 50px;
+  }
+
+  .email-alerts .shoe-details div {
+    margin: 0 auto;
+    width: 50%;
+  }
+
+  .shoe-image-emails {
+    width: 50%;
+    margin: 0 auto;
+  }
+
+  .email-alerts-signup {
+    & h5 {
+      margin-top: 10px;
+      text-align: center;
+    }
+    & label {
+      text-transform: none !important;
+      font-size: 12px;
+    }
+  }
+
+  .one-col-div {
+    & h1 {
+      margin-left: 7% !important;
+    }
+  }
+}
+
+
+@media (max-width: 767px) {
+  #account-container {
+
+   h4 {
+     text-align: center;
+   }
+
+
+  }
+}
+

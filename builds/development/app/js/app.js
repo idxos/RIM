@@ -1,10 +1,9 @@
-var myApp = angular.module('myApp', ['ngRoute',
-'firebase', 'appControllers'])
-.constant('FIREBASE_URL', 'https://amber-heat-4202.firebaseio.com/');
+var myApp = angular.module('myApp', ['ngRoute', 'ng-animate', 'firebase', 'appControllers'])
 
-var appControllers = angular.module('appControllers',
-  ['firebase']);
+  .constant('FIREBASE_URL', 'https://amber-heat-4202.firebaseio.com/');
 
+
+var appControllers = angular.module('appControllers', ['firebase']);
 
 
 myApp.run(['$rootScope', '$location', function($rootScope, $location) {
@@ -54,27 +53,16 @@ myApp.config(['$routeProvider', function($routeProvider) {
       templateUrl: 'views/dashboard/dashboard.html',
       controller: 'DashboardController'
     }).
-    when('/aaf', {
-      templateUrl: 'views/dashboard/aaf.html',
-      controller: 'DashboardController'
-    }).
-    when('/operations', {
-      templateUrl: 'views/dashboard/operations.html',
-      controller: 'DashboardController'
-    }).
-    when('/reports', {
-      templateUrl: 'views/dashboard/reports.html',
-      controller: 'DashboardController'
-    }).
-    when('/daily-processing', {
-      templateUrl: 'views/dashboard/daily-processing.html',
-      controller: 'DashboardController'
-    }).
-    when('/rules', {
-      templateUrl: 'views/dashboard/daily-processing.html',
-      controller: 'DashboardController'
+    when('/account', {
+      templateUrl: 'views/account.html',
+      controller: 'accountController'
     }).
     otherwise({
-      redirectTo: '/dashboard'
+      redirectTo: '/login',
+      controller:  'RegistrationController'
     });
 }]);
+
+
+
+

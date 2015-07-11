@@ -5619,6 +5619,49 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+#account-container .loyalty-points-blurb {
+  padding: 20px; }
+  #account-container .loyalty-points-blurb p {
+    font-size: 12px; }
+#account-container .loyalty-points-blurb .h2bold {
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-bottom: 20px; }
+#account-container .customer-care-links {
+  margin-left: 100px;
+  margin-top: 20px; }
+#account-container h4 {
+  background-color: transparent;
+  font-size-adjust: none;
+  text-decoration: none;
+  font-stretch: normal;
+  border: none;
+  display: block;
+  font-size: 18px;
+  padding: 0;
+  font-family: "Lato Regular", sans-serif;
+  font-weight: 300; }
+#account-container .therow {
+  margin-top: 50px; }
+#account-container .email-alerts .shoe-details div {
+  margin: 0 auto;
+  width: 50%; }
+#account-container .shoe-image-emails {
+  width: 50%;
+  margin: 0 auto; }
+#account-container .email-alerts-signup h5 {
+  margin-top: 10px;
+  text-align: center; }
+#account-container .email-alerts-signup label {
+  text-transform: none !important;
+  font-size: 12px; }
+#account-container .one-col-div h1 {
+  margin-left: 7% !important; }
+
+@media (max-width: 767px) {
+  #account-container h4 {
+    text-align: center; } }
 /*!
   Ionicons, v2.0.1
   Created by Ben Sperry for the Ionic Framework, http://ionicons.com/

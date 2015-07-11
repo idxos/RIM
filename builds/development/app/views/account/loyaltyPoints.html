@@ -1,0 +1,50 @@
+<div class="accordion-container">
+    <div class="row">
+        <div class="col-md-6 loyalty-points-blurb">
+            <span class="h2bold">how loyalty points work</span><br/>
+            <p>
+                Your account will accumulate 1 point for every dollar you spend! <br/>
+                You can redeem your points at a rate of 15 points equal $1.
+            </p>
+            <div class="col-md-1" style="margin-right:15px; margin-top:-8px;">
+                <h1>
+                    <span class="text-primary">
+                        <div ng-class="(rewards.points < 10) ? 'margin-left-10' : ''" data-ng-bind="rewards.points"></div>
+                        <div style="font-size:10px; margin-left:5px;">points</div>
+                    </span>
+                </h1>
+            </div>
+            <div class="col-md-4">
+                <h1> = $1</h1>
+            </div>
+        </div>
+        <div class="col-md-6 loyalty-points-blurb">
+            <div class="row">
+                <div class="col-md-12">
+                    <span class="h2bold">your points</span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="left word-div">Dollars Spent</div>
+                    <div class="right word-div" data-ng-bind="'$' + rewards.spent"></div>
+                    <div class="dotted word-div"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-11">
+                    <div class="left word-div">Points Earned</div>
+                    <div class="right word-div" data-ng-bind="rewards.earned"></div>
+                    <div class="dotted word-div"></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-10">
+                    <div class="left word-div">Rewards Value</div>
+                    <div class="right word-div bold" data-ng-bind="'$' + rewards.value"></div>
+                    <div class="dotted word-div"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

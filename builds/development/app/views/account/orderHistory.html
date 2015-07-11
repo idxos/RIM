@@ -1,0 +1,19 @@
+<div class="accordion-container">
+    <div ng-show="orders != null">
+        <div class="main-row row text-align">
+            <div class="col-md-2 col-md-offset-1">order id #</div>
+            <div class="col-md-2">date</div>
+            <div class="col-md-2">status</div>
+            <div class="col-md-2">tracking #</div>
+            <div class="col-md-2">amount</div>
+
+        </div>
+        <div ng-repeat="o in orders" ng-class="(($index + 1) == orders.length) ? 'last' : ''" class="order-row row text-align bdr-dotted bdr-bottom-only">
+            <div class="col-md-2 col-md-offset-1" data-ng-bind="o.orderid"></div>
+            <div class="col-md-2" data-ng-bind="o.date"></div>
+            <div class="col-md-2" data-ng-bind="o.status"></div>
+            <div class="col-md-2" data-ng-bind="o.tracking"></div>
+            <div class="col-md-2" data-ng-bind="o.ammount"></div>
+        </div>
+    </div>
+</div>

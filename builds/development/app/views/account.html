@@ -1,0 +1,66 @@
+<header>
+  <nav class="navbar navbar-default cf" ng-include="'../top-nav.html'"></nav>
+</header>
+<div class="container">
+    <h3 class="line-div-p text-upper">My Account</h3>
+    <div class="line-div"></div>
+    <div>
+        <div ng-controller="accountFormController">
+            <div class="accordion" accordion close-others="oneAtATime">
+                <div class="accordion" accordion-group heading="personal information" is-open="status.isFirstOpen" is-disabled="status.isFirstDisabled">
+                    <div ng-include="'account/personalInfo.html'"></div>
+                </div>
+                <div class="accordion" accordion-group heading="order history">
+                    <div ng-include="'account/orderHistory.html'"></div>
+                </div>
+                <div class="accordion" accordion-group heading="return history">
+                    <div ng-include="'account/returnHistory.html'"></div>
+                </div>
+                <div class="accordion" accordion-group heading="loyalty points">
+                    <div ng-include="'account/loyaltyPoints.html'"></div>
+                </div>
+                <div class="accordion" accordion-group heading="my wishlist">
+                    <div ng-include="'account/wishlist.html'"></div>
+                </div>
+                <div class="accordion" accordion-group heading="email alerts">
+                    <div ng-include="'account/emailAlerts.html'"></div>
+                </div>
+                <div class="accordion" accordion-group heading="customer care">
+                    <div ng-include="'account/customerCare.html'"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

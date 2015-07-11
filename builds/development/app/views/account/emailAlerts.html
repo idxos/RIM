@@ -1,0 +1,81 @@
+<div class="text-center">
+    <div class="row line-separated email-alerts no-overflow">
+        <div class="col-md-4 line-sep-div col-eq">
+            <h4>on sale</h4>
+            <div ng-repeat="s in emails.sale" class="therow">
+                <div class="shoe-image-emails">
+                    <a id="product_link_28081_0" property="v:url" class="quickview" content="/womens-shoes/griffin-w-studs-black-lt-gold.html" resource="/womens-shoes/griffin-w-studs-black-lt-gold.html" href="/womens-shoes/griffin-w-studs-black-lt-gold.html" title="DKNY Griffin W Studs - Black Lt Gold">
+                        <span property="v:thumbnail" class="outside_view" content="http://static.heels.com/images/shoes/outside_view/thumbnail/ZDKNY002_OUTTHUMB.jpg">
+                            <img class="photo" ng-src="[[s.image]]" alt="DKNY Griffin W Studs - Black Lt Gold" width="100%">
+                        </span>
+                        <span property="v:photo" content="http://static.heels.com/images/shoes/outside_view/medium/ZDKNY002_OUT.jpg"></span>
+                        <span property="v:photo" content="http://static1.heels.com/images/shoes/outside_view/large/ZDKNY002_OUT_LG.jpg"></span>
+                    </a>
+                </div>
+                <div class="shoe-details" style="text-align:center">
+                    <div style="width:50%">
+                        <a href="">[[s.title]]</a>
+                    </div>
+                    <div >
+                        <p>
+                            [[s.sku]]
+                        </p>
+
+
+                    </div>
+                </div>
+                <button ng-click="" class="white-button btn-outline">Remove</button>
+            </div>
+        </div>
+        <div class="col-md-4 line-sep-div">
+            <h4>back in stock</h4>
+            <div ng-repeat="s in emails.stock" class="therow">
+                <div class="shoe-image-emails">
+                    <a id="product_link_28081_0" property="v:url" class="quickview" content="/womens-shoes/griffin-w-studs-black-lt-gold.html" resource="/womens-shoes/griffin-w-studs-black-lt-gold.html" href="/womens-shoes/griffin-w-studs-black-lt-gold.html" title="DKNY Griffin W Studs - Black Lt Gold">
+                        <span property="v:thumbnail" class="outside_view" content="http://static.heels.com/images/shoes/outside_view/thumbnail/ZDKNY002_OUTTHUMB.jpg">
+                            <img class="photo" ng-src="[[s.image]]" alt="DKNY Griffin W Studs - Black Lt Gold" width="100%">
+                        </span>
+                        <span property="v:photo" content="http://static.heels.com/images/shoes/outside_view/medium/ZDKNY002_OUT.jpg"></span>
+                        <span property="v:photo" content="http://static1.heels.com/images/shoes/outside_view/large/ZDKNY002_OUT_LG.jpg"></span>
+                    </a>
+                </div>
+                <div class="shoe-details" style="text-align:center">
+                    <div><a href="">[[s.title]]</a></div>
+                    <div >
+                        <p>
+                           SKU: [[s.sku]]
+                        </p>
+
+
+                    </div>
+                </div>
+                <button ng-click="" class="white-button btn-outline">Remove</button>
+            </div>
+        </div>
+        <div class="col-md-4 line-sep-div last">
+            <h4>new styles</h4>
+            <div ng-repeat="s in emails.styles" class="therow">
+                <div class="shoe-image-emails">
+                    <a id="product_link_28081_0" property="v:url" class="quickview" content="/womens-shoes/griffin-w-studs-black-lt-gold.html" resource="/womens-shoes/griffin-w-studs-black-lt-gold.html" href="/womens-shoes/griffin-w-studs-black-lt-gold.html" title="DKNY Griffin W Studs - Black Lt Gold">
+                        <span property="v:thumbnail" class="outside_view" content="http://static.heels.com/images/shoes/outside_view/thumbnail/ZDKNY002_OUTTHUMB.jpg">
+                            <img class="photo" ng-src="[[s.image]]" alt="DKNY Griffin W Studs - Black Lt Gold" width="100%">
+                        </span>
+                        <span property="v:photo" content="http://static.heels.com/images/shoes/outside_view/medium/ZDKNY002_OUT.jpg"></span>
+                        <span property="v:photo" content="http://static1.heels.com/images/shoes/outside_view/large/ZDKNY002_OUT_LG.jpg"></span>
+                    </a>
+                </div>
+                <div class="shoe-details" style="text-align:center">
+                    <div><a href="">[[s.title]]</a></div>
+                    <div >
+                        <p>
+                            [[s.sku]]
+                        </p>
+
+
+                    </div>
+                </div>
+                <button ng-click="" class="white-button btn-outline">Remove</button>
+            </div>
+        </div>
+    </div>
+</div>

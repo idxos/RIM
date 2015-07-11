@@ -1,0 +1,54 @@
+<div>
+    <div ng-repeat="row in wishlist">
+        <div class="row" style="margin-bottom:25px;">
+            <div class="col-md-5ths" ng-repeat="item in row">
+                <div class="shoe-image">
+                    <a id="product_link_28081_0" property="v:url" class="quickview" content="/womens-shoes/griffin-w-studs-black-lt-gold.html" resource="/womens-shoes/griffin-w-studs-black-lt-gold.html" href="/womens-shoes/griffin-w-studs-black-lt-gold.html" title="DKNY Griffin W Studs - Black Lt Gold">
+                        <span property="v:thumbnail" class="outside_view" content="http://static.heels.com/images/shoes/outside_view/thumbnail/ZDKNY002_OUTTHUMB.jpg">
+                            <img class="photo" ng-src="[[item.image]]" alt="DKNY Griffin W Studs - Black Lt Gold" width="100%">
+                        </span>
+                        <span property="v:photo" content="http://static.heels.com/images/shoes/outside_view/medium/ZDKNY002_OUT.jpg"></span>
+                        <span property="v:photo" content="http://static1.heels.com/images/shoes/outside_view/large/ZDKNY002_OUT_LG.jpg"></span>
+                    </a>
+                </div>
+                <div class="shoe-details" style="text-align:center">
+                    <div><a href="">[[item.title]]</a></div>
+                    <div >
+                        <ul class="line-separated list-inline">
+                            <li>
+                               Size: [[item.size]]
+                            </li>
+                            <li class="last">
+                               $ [[item.price]]
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <button ng-click="" class="white-button btn-outline">add to cart</button>
+                <button ng-click="" class="black-button margin-top-5 btn-outline">remove</button>
+
+                <div class="email-alerts-signup">
+                    <div class="">
+                        <h5 class="text-capitalize">sign up for email alerts</h5>
+                    </div>
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox"> When Item is On Sale
+                        </label>
+                    </div>
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox"> When Item is Back in Stock
+                        </label>
+                    </div>
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox"> New Styles by this Brand
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
